@@ -1,0 +1,6 @@
+terraform2.provider
+terraform2.gkecluster
+terraform2.tfstate
+terraform2.tfstate.backup
+terraform2.tfvar
+.terraform2
